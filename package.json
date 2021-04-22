@@ -1,6 +1,6 @@
 {
-  "homepage": "https://microsoftjulius.github.io/JaaJaWebsite",
   "name": "jaajawebsite",
+  "homepage": "https://microsoftjulius.github.io/JaaJaWebsite/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
