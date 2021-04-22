@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.c25cf23a.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.c25cf23a.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.6994e7ce.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.6994e7ce.js.map",
-    "static/js/2.7d47a3fe.chunk.js": "/react-gh-pages/static/js/2.7d47a3fe.chunk.js",
-    "static/js/2.7d47a3fe.chunk.js.map": "/react-gh-pages/static/js/2.7d47a3fe.chunk.js.map",
-    "static/js/3.b080df89.chunk.js": "/react-gh-pages/static/js/3.b080df89.chunk.js",
-    "static/js/3.b080df89.chunk.js.map": "/react-gh-pages/static/js/3.b080df89.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/react-gh-pages/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.7d47a3fe.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.7d47a3fe.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/react-gh-pages/static/media/logo.6ce24c58.svg"
+    "main.css": "/JaaJaWebsite/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/JaaJaWebsite/static/js/main.5d442b44.chunk.js",
+    "main.js.map": "/JaaJaWebsite/static/js/main.5d442b44.chunk.js.map",
+    "runtime-main.js": "/JaaJaWebsite/static/js/runtime-main.03ce0be1.js",
+    "runtime-main.js.map": "/JaaJaWebsite/static/js/runtime-main.03ce0be1.js.map",
+    "static/js/2.c7480ff4.chunk.js": "/JaaJaWebsite/static/js/2.c7480ff4.chunk.js",
+    "static/js/2.c7480ff4.chunk.js.map": "/JaaJaWebsite/static/js/2.c7480ff4.chunk.js.map",
+    "static/js/3.b080df89.chunk.js": "/JaaJaWebsite/static/js/3.b080df89.chunk.js",
+    "static/js/3.b080df89.chunk.js.map": "/JaaJaWebsite/static/js/3.b080df89.chunk.js.map",
+    "index.html": "/JaaJaWebsite/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/JaaJaWebsite/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.c7480ff4.chunk.js.LICENSE.txt": "/JaaJaWebsite/static/js/2.c7480ff4.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/JaaJaWebsite/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6994e7ce.js",
-    "static/js/2.7d47a3fe.chunk.js",
+    "static/js/runtime-main.03ce0be1.js",
+    "static/js/2.c7480ff4.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.c25cf23a.chunk.js"
+    "static/js/main.5d442b44.chunk.js"
   ]
 }
